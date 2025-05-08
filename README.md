@@ -1,18 +1,22 @@
 # **Uncovering the Hidden Treasures of the Mushroom Kingdom: A Classification Analysis**
 
 ## **Project Description**
+
 - This project focuses on the classification of different types of mushrooms found in various regions of the world. The classification is based on images of mushrooms, and the goal is to use deep learning techniques for accurate species recognition.
 - By applying transfer learning and deep learning methodologies, the project aims to accurately classify mushrooms into three main categories: Boletus, Lactarius, and Russula. These categories represent different types of mushrooms found in diverse regions worldwide. The ultimate objective is to develop a robust and reliable classification system for mushroom species recognition based on their visual attributes.
 
 ## **Screenshots**
 
 ### Home Page:
+
 <p align="center">
- <img src="https://1drv.ms/i/c/302133BCA4C035C4/EWl1HZ1LwPZIh9Qcw1mYQUgBgZAb3rrDs_vnKms8wRNEpw?e=TXmmHC" width="800" height="auto" alt="Your Image Description">
+ <img src="https://onedrive.live.com/embed?resid=YOUR_RES_ID&authkey=YOUR_AUTH_KEY
+ " width="800" height="auto" alt="Your Image Description">
 
 </p>
 
 ### Mushroom Classification Result:
+
 <p align="center">
  <img src="https://1drv.ms/i/c/302133BCA4C035C4/EaSlXi7ExSlJuKuniAcwFMUB8tp9qaUYy5joUScbp-f-UQ?e=ityddg" width="800" height="auto" alt="Classification Results Display">
 </p>
@@ -65,6 +69,7 @@ python app.py
 ```
 
 ## **Project Structure**
+
 ```
 AI-Mushroom-Classification-Analysis-master/
 ├── Documentation...
@@ -81,10 +86,13 @@ AI-Mushroom-Classification-Analysis-master/
 ├── README.md          # Project documentation
 └── requirements.txt   # Project dependencies
 ```
+
 ## **Note**
---Install Flask and TensorFlow Separately 
+
+--Install Flask and TensorFlow Separately
 
 ## **Technologies Used**
+
 - Python 3.10.6
 - TensorFlow/Keras
 - Flask
@@ -93,21 +101,24 @@ AI-Mushroom-Classification-Analysis-master/
 - NumPy/Pandas
 
 ## **Model Architecture**
+
 The classification model is built using transfer learning with pre-trained neural networks. The trained model is saved as `Mushroom Classification Model.h5` in the root directory.
 
 ## **Dataset**
+
 The dataset is organized in the Dataset folder with separate test and train directories. It consists of images of three main mushroom genera:
+
 - Boletus
 - Lactarius
 - Russula
 
-
 ## **Future Improvements**
+
 - Expand classification capabilities to include more mushroom species
 - Implement mobile application for field identification
 - Add detailed information about each mushroom species
 - Integrate geographical data to enhance classification accuracy
 
 ## **Conclusion**
-The mushroom classification project utilizes deep learning and transfer learning techniques to build an accurate and efficient classification system. By leveraging pre-trained models and a comprehensive mushroom dataset, we aim to contribute to the field of mushroom recognition and promote the understanding of mushroom species diversity in different regions.
 
+The mushroom classification project utilizes deep learning and transfer learning techniques to build an accurate and efficient classification system. By leveraging pre-trained models and a comprehensive mushroom dataset, we aim to contribute to the field of mushroom recognition and promote the understanding of mushroom species diversity in different regions.
